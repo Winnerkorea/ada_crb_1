@@ -860,13 +860,6 @@ video {
   --tw-shadow: var(--tw-shadow-colored);
 }
 
-* {
-  font-family: "Pretendard Variable", Pretendard, -apple-system,
-    BlinkMacSystemFont, system-ui, Roboto, "Helvetica Neue", "Segoe UI",
-    "Apple SD Gothic Neo", "Noto Sans KR", "Malgun Gothic", "Apple Color Emoji",
-    "Segoe UI Emoji", "Segoe UI Symbol", sans-serif;
-}
-
 .hover\:animate-none:hover {
   animation: none;
 }
@@ -891,3 +884,4 @@ video {
     color: rgb(255 255 255 / var(--tw-text-opacity, 1));
   }
 }
+
